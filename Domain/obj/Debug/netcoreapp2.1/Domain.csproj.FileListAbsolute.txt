@@ -1,0 +1,5 @@
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs

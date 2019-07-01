@@ -1,0 +1,11 @@
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\bin\Debug\netcoreapp2.1\Pub.deps.json
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\bin\Debug\netcoreapp2.1\Pub.runtimeconfig.json
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\bin\Debug\netcoreapp2.1\Pub.runtimeconfig.dev.json
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\bin\Debug\netcoreapp2.1\Pub.dll
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\bin\Debug\netcoreapp2.1\Pub.pdb
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\obj\Debug\netcoreapp2.1\Pub.csprojAssemblyReference.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\obj\Debug\netcoreapp2.1\Pub.csproj.CoreCompileInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\obj\Debug\netcoreapp2.1\Pub.AssemblyInfoInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\obj\Debug\netcoreapp2.1\Pub.AssemblyInfo.cs
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\obj\Debug\netcoreapp2.1\Pub.dll
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Pub\obj\Debug\netcoreapp2.1\Pub.pdb

@@ -1,0 +1,5 @@
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Application\bin\Debug\netcoreapp2.1\Domain.dll
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Application\obj\Debug\netcoreapp2.1\Application.csprojAssemblyReference.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Application\obj\Debug\netcoreapp2.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfoInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Application\obj\Debug\netcoreapp2.1\Application.AssemblyInfo.cs
