@@ -1079,6 +1079,20 @@
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
       },
+      "Adapters/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0"
+        },
+        "compile": {
+          "bin/placeholder/Adapters.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Adapters.dll": {}
+        }
+      },
       "Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -4230,6 +4244,11 @@
         "system.xml.xmldocument.nuspec"
       ]
     },
+    "Adapters/1.0.0": {
+      "type": "project",
+      "path": "../Adapters/Adapters.csproj",
+      "msbuildProject": "../Adapters/Adapters.csproj"
+    },
     "Domain/1.0.0": {
       "type": "project",
       "path": "../Domain/Domain.csproj",
@@ -4238,6 +4257,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "Adapters >= 1.0.0",
       "Domain >= 1.0.0",
       "Google.Apis.Auth >= 1.40.2",
       "Google.Cloud.PubSub.V1 >= 1.0.0",
@@ -4275,6 +4295,9 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
+            "C:\\Users\\woliveiral\\source\\repos\\PubSubGoogleCloud\\Adapters\\Adapters.csproj": {
+              "projectPath": "C:\\Users\\woliveiral\\source\\repos\\PubSubGoogleCloud\\Adapters\\Adapters.csproj"
+            },
             "C:\\Users\\woliveiral\\source\\repos\\PubSubGoogleCloud\\Domain\\Domain.csproj": {
               "projectPath": "C:\\Users\\woliveiral\\source\\repos\\PubSubGoogleCloud\\Domain\\Domain.csproj"
             }

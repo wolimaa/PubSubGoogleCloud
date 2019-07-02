@@ -1,0 +1,11 @@
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\bin\Debug\netcoreapp2.1\ApplicationTest.deps.json
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\bin\Debug\netcoreapp2.1\ApplicationTest.runtimeconfig.json
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\bin\Debug\netcoreapp2.1\ApplicationTest.runtimeconfig.dev.json
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\bin\Debug\netcoreapp2.1\ApplicationTest.dll
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\bin\Debug\netcoreapp2.1\ApplicationTest.pdb
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\obj\Debug\netcoreapp2.1\ApplicationTest.csproj.CoreCompileInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\obj\Debug\netcoreapp2.1\ApplicationTest.AssemblyInfoInputs.cache
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\obj\Debug\netcoreapp2.1\ApplicationTest.AssemblyInfo.cs
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\obj\Debug\netcoreapp2.1\ApplicationTest.dll
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\obj\Debug\netcoreapp2.1\ApplicationTest.pdb
+C:\Users\woliveiral\source\repos\PubSubGoogleCloud\ApplicationTest\obj\Debug\netcoreapp2.1\ApplicationTest.csprojAssemblyReference.cache

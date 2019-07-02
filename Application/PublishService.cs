@@ -1,4 +1,6 @@
-﻿using Domain.Services;
+﻿using Adapters;
+using Domain.Adapters;
+using Domain.Services;
 using Google.Apis.Auth.OAuth2;
 using Google.Cloud.PubSub.V1;
 using Grpc.Auth;
@@ -9,6 +11,12 @@ namespace Application
 {
     public class PublishService : IPublishService
     {
+        private readonly IGooglePubSubAdapter googlePubSubAdapter;
+        public PublishService(IGooglePubSubAdapter googlePubSubAdapter)
+        {
+            this.googlePubSubAdapter = googlePubSubAdapter ?? throw new ArgumentNullException(nameof(IGooglePubSubAdapter));
+        }
+
         public Task CreateTopic(string topic)
         {
             throw new NotImplementedException();
@@ -16,13 +24,7 @@ namespace Application
 
         public async Task PublishAsync(TopicName topicName, string message)
         {
-            var credential = GoogleCredential.FromFile(@"C:\Users\woliveiral\source\repos\PubGoogleCloud\netcore-c9b67cd02535.json");
-            var createSettings = new PublisherClient.ClientCreationSettings(
-                credentials: credential.ToChannelCredentials());
-
-            var publisher = await PublisherClient.CreateAsync(topicName,
-                clientCreationSettings: createSettings);
-
+            var publisher = await googlePubSubAdapter.GetPublisherClientAsync(topicName);
             string messageId = await publisher.PublishAsync(message);
             await publisher.ShutdownAsync(TimeSpan.FromSeconds(50000));
 
