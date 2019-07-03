@@ -67,7 +67,7 @@ namespace Pub
             PublishMessage publish = publishMessage as PublishMessage;
             var topicName = new TopicName(publish.ProjectId, publish.TopicId);
             var publishService = publish.ServiceCollection.GetService(typeof(IPublishService));
-            Console.WriteLine($"{DateTime.Now:HH:mm:ss.fff}: starting a new callback.");
+            Console.WriteLine($"{DateTime.Now:HH:mm:ss.fff}: starting a new publish. Message: {publish.Message}");
             Interlocked.Increment(ref publish.Counter);
             await publishService.PublishAsync(topicName, publish.Message);
         }

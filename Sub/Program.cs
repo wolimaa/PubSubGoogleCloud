@@ -7,12 +7,13 @@ using System.IO;
 using Adapters;
 using Domain.Adapters;
 using System;
+using System.Threading.Tasks;
 
 namespace Sub
 {
     class Program
     {
-        static async System.Threading.Tasks.Task Main(string[] args)
+        static async Task Main(string[] args)
         {
 
             var builder = new ConfigurationBuilder()
