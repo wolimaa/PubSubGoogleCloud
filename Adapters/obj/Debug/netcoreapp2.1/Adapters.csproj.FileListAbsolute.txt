@@ -10,15 +10,3 @@ C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp
 C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.csproj.CopyComplete
 C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.dll
 C:\Users\woliveiral\source\repos\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.pdb
-F:\Workspace\PubSubGoogleCloud\Adapters\bin\Debug\netcoreapp2.1\Adapters.deps.json
-F:\Workspace\PubSubGoogleCloud\Adapters\bin\Debug\netcoreapp2.1\Adapters.dll
-F:\Workspace\PubSubGoogleCloud\Adapters\bin\Debug\netcoreapp2.1\Adapters.pdb
-F:\Workspace\PubSubGoogleCloud\Adapters\bin\Debug\netcoreapp2.1\Domain.dll
-F:\Workspace\PubSubGoogleCloud\Adapters\bin\Debug\netcoreapp2.1\Domain.pdb
-F:\Workspace\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.csprojAssemblyReference.cache
-F:\Workspace\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.csproj.CoreCompileInputs.cache
-F:\Workspace\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.AssemblyInfoInputs.cache
-F:\Workspace\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.AssemblyInfo.cs
-F:\Workspace\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.csproj.CopyComplete
-F:\Workspace\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.dll
-F:\Workspace\PubSubGoogleCloud\Adapters\obj\Debug\netcoreapp2.1\Adapters.pdb
